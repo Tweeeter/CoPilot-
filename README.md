@@ -1,4 +1,6 @@
 # PDF Data Extraction Web Application
+## What it does you ask?
+This application streamlines tax filing for Chartered Accountants by automating invoice data extraction. During tax season, CAs require sales data organized by HSN codes—a time-consuming manual process. This tool eliminates that burden by accepting multiple PDF invoices and automatically extracting critical information: invoice numbers, dates, receiver details, GST numbers, HSN codes, quantities, and tax amounts (CGST, SGST). The program consolidates all extracted data into a single Excel file, organized by HSN classification. By automating this labor-intensive process, the application significantly reduces manual data entry errors and accelerates tax filing, saving CAs valuable time and improving accuracy during compliance periods.
 
 ## How to Download and Run
 
